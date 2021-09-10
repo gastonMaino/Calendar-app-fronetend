@@ -1,0 +1,1 @@
+UseModal is a custom hook but never it is used in the app.

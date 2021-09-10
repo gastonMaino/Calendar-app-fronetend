@@ -1,0 +1,32 @@
+@media screen and (min-width: 1300px) {
+    .auth__login-form{
+        padding-top: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 10px;
+    }
+
+    .auth__register-form{
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+
+    .auth__login-form{
+        padding-top: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 10px;
+    }
+
+    .auth__register-form{
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}

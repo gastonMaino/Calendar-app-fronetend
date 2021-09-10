@@ -1,0 +1,28 @@
+.btn-add, .btn-delete{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $ligth-blue;
+    border: none;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+.btn-fab{
+    border-radius: 50%;
+    padding: 20px;
+    bottom: 25px;
+    right: 25px;
+    position: fixed;
+}
+
+.btn-delete{
+    background-color: #ff0000;
+}
+
+.fab__danger{
+    padding: 15px;
+    bottom: 25px;
+    left: 25px;
+    position: fixed;
+}

@@ -1,0 +1,30 @@
+.ui__header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    width: 100%;
+    background-color: $very-dark-grey;
+    color: #ffffff;
+}
+
+.ui__header-text{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.ui__header-btn{
+    display: block;
+    margin: 10px 0;
+    padding: 10px 0;
+    color: #ffffff;
+    height: 25px;
+    border: none;
+    padding: 1px 6px;
+    background-color: #ff0000;
+}
+
+.ui__header-span{
+    font-size: 0.8rem;
+    margin: 0;
+    padding: 0;
+}
